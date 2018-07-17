@@ -1,7 +1,7 @@
 # IOCAutofacSimpleDemo
  Managing Dependency Injection in C# with Autofac 
  
- ccording to Wikipedia the Dependency Inversion Principle (popularized by Robert Martin) states that:
+According to Wikipedia the Dependency Inversion Principle (popularized by Robert Martin) states that:
 
     High-level modules should not depend upon low-level modules. Both should depend upon abstractions.
     Abstractions should not depend upon details. Details should depend upon abstractions.
